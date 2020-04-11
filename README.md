@@ -7,5 +7,7 @@ How to integrate the library in your app?
 # dependencies
  
  {
-	        implementation 'com.github.mohammadfrh:BiometricLibrary:Tag'                
+ 
+	        implementation 'com.github.mohammadfrh:BiometricLibrary:Tag' 
+		
 }
