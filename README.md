@@ -4,8 +4,8 @@ Add Biometric Authentication to any Android app  This library provides an easy w
 
 How to integrate the library in your app?
 
-dependencies {
-
-	        implementation 'com.github.mohammadfrh:BiometricLibrary:Tag'
-                
+# dependencies
+ 
+ {
+	        implementation 'com.github.mohammadfrh:BiometricLibrary:Tag'                
 }
